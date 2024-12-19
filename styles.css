@@ -1,0 +1,74 @@
+h1{
+    text-align: center;
+    color: #121212;
+    margin-top: 30px;
+    margin-bottom:30px;
+}
+
+p{
+    color: #121212;
+    width: 380px;
+    text-align: center;
+}
+
+input{
+    color: #121212;
+    border-style: solid;
+    border-color: #121212;
+    border-width:3px;
+    text-align: center;
+    width: 240px;
+    margin-bottom: 6px;
+}
+
+button{
+    color: white;
+    background-color: #121212;
+    border-style: solid;
+    border-color: #121212;
+    border-width:3px;
+    text-align: center;
+    width: 250px;
+}
+
+.term-service{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    font-style: italic;
+}
+
+.stadium-image{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 380px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #121212;
+    margin-bottom: 10px;
+}
+
+.description{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.input-field{
+    display: flex;
+    justify-content: center;
+}
+
+.submit{
+    display: flex;
+    justify-content: center;
+}
+
+.homepage{
+    display: flex;
+    justify-content: center;
+}
